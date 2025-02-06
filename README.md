@@ -1,4 +1,4 @@
-### citra-wiki (go to wiki tab)
+### citra-wiki (go to  [wiki](https://github.com/ElEd0/citra-wiki/wiki) tab)
 
 Reconstruction of the original citra wiki using archive.org WaybackMachine.
 Internal links have been fixed and images are contained in the repo.
